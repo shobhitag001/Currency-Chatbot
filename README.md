@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="a_clean_modern_tech_themed_banner_hero_graphic_wi.png" alt="Currency Chatbot Banner">
+</p>
+
 # 💱 Currency Chatbot
 
 ### Natural-Language Currency Conversion using Dialogflow, Python & Flask
