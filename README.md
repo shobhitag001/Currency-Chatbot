@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="a_clean_modern_tech_themed_banner_hero_graphic_wi.png" alt="Currency Chatbot Banner">
+  <img src="CC_Chatbot.png" alt="Currency Chatbot Banner">
 </p>
 
 # 💱 Currency Chatbot
