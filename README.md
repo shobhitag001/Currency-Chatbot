@@ -2,6 +2,14 @@
   <img src="CC_Chatbot.png" alt="Currency Chatbot Banner">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python">
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-black?logo=flask">
+  <img src="https://img.shields.io/badge/Dialogflow-NLP-orange?logo=dialogflow">
+  <img src="https://img.shields.io/badge/ExchangeRate-API-green">
+  <img src="https://img.shields.io/badge/License-MIT-yellow">
+</p>
+
 # 💱 Currency Chatbot
 
 ### Natural-Language Currency Conversion using Dialogflow, Python & Flask
